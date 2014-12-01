@@ -8,7 +8,7 @@ Define a function `reverse()` that reverses a string. For example, `reverse("bui
 
 ### filterLongWords()
 
-Write a function `filterLongWords()` that takes an array of words and an integer i and returns an array of words that are longer than i.
+Write a function `filterLongWords()` that takes an array of words and an integer `i` and returns an array of words that are longer than `i`.
 
 ### range()
 
@@ -16,7 +16,7 @@ Write a function `range` that takes one argument, a positive number, and returns
 
 ### startsWith
 
-Write a function called `startsWith` that takes two arguments, both strings. It returns true when the first argument starts with the characters in the second argument, and false otherwise.
+Write a function called `startsWith` that takes two arguments, both strings. It returns `true` when the first argument starts with the characters in the second argument, and `false` otherwise.
 
 ### grade()
 
