@@ -1,6 +1,6 @@
-# Coffeescript Exercises
+# CoffeeScript Exercises
 
-For this lab we would like you to complete the following exercises in coffeescript. You can do this in a rails app or in a seperate coffee file
+For this lab we would like you to complete the following exercises in CoffeeScript. You can do this in a rails app or in a seperate coffee file
 
 ### reverse()
 
