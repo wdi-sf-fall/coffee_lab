@@ -1,14 +1,14 @@
 # CoffeeScript Exercises
 
-For this lab we would like you to complete the following exercises in CoffeeScript. You can do this in a rails app or in a seperate coffee file
+For this lab we would like you to complete the following exercises in CoffeeScript. You can do this in a Rails app or in a seperate coffee file.
 
 ### reverse()
 
-Define a function reverse() that computes the reversal of a string. For example, reverse("building") should return the string "gnidliub".
+Define a function reverse() that reverses a string. For example, reverse("building") should return the string "gnidliub".
 
 ### filterLongWords()
 
-Write a function filterLongWords() that takes an array of words and an integer i and returns the array of words that are longer than i.
+Write a function filterLongWords() that takes an array of words and an integer i and returns an array of words that are longer than i.
 
 ### range()
 
